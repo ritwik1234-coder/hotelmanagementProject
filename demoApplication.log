@@ -1,0 +1,1108 @@
+[2020-05-03 00:24:39,463][com.capgemini.hotel.controller.HotelController][main] INFO  com.capgemini.hotel.controller.HotelController  - 
+
+ Select any one option to proceed
+
+[2020-05-03 00:24:39,463][com.capgemini.hotel.controller.HotelController][main] INFO  com.capgemini.hotel.controller.HotelController  - 1.Admin
+[2020-05-03 00:24:39,463][com.capgemini.hotel.controller.HotelController][main] INFO  com.capgemini.hotel.controller.HotelController  - 2.Employee
+[2020-05-03 00:24:39,463][com.capgemini.hotel.controller.HotelController][main] INFO  com.capgemini.hotel.controller.HotelController  - 3.Customer
+[2020-05-03 00:24:39,463][com.capgemini.hotel.controller.HotelController][main] INFO  com.capgemini.hotel.controller.HotelController  - 4.Exit
+[2020-05-03 00:25:11,413][com.capgemini.hotel.dao.LoginDetailDAOImpl][main] INFO  com.capgemini.hotel.dao.LoginDetailDAOImpl  - 
+ Enter  username : 
+[2020-05-03 00:25:18,120][com.capgemini.hotel.dao.LoginDetailDAOImpl][main] INFO  com.capgemini.hotel.dao.LoginDetailDAOImpl  - 
+ Enter password : 
+[2020-05-03 00:25:24,402][com.capgemini.hotel.dao.LoginDetailDAOImpl][main] INFO  com.capgemini.hotel.dao.LoginDetailDAOImpl  - 
+
+ Login done
+
+[2020-05-03 00:25:24,402][com.capgemini.hotel.dao.LoginDetailDAOImpl][main] INFO  com.capgemini.hotel.dao.LoginDetailDAOImpl  - 
+
+ 1. View hotel list 
+ 2. View specific hotel bookings 
+ 3. View specific hotel patron list 
+ 4. View specific date bookings 
+ 5. Operate hotel details 
+ 6. Operate hotel room details 
+ 7. Logout
+
+[2020-05-03 00:25:33,867][com.capgemini.hotel.dao.AdminInformationDAOImpl][main] INFO  com.capgemini.hotel.dao.AdminInformationDAOImpl  - 
+
+ 1. Taj Hotel 
+ 
+[2020-05-03 00:25:41,154][com.capgemini.hotel.dao.BookingInformationDAOImpl][main] INFO  com.capgemini.hotel.dao.BookingInformationDAOImpl  - 
+
+com.capgemini.hotel.bean.BookingInformation@5b480cf9
+[2020-05-03 00:25:48,173][com.capgemini.hotel.dao.AdminInformationDAOImpl][main] INFO  com.capgemini.hotel.dao.AdminInformationDAOImpl  - 
+
+ 1. Taj Hotel 
+ 
+[2020-05-03 00:25:57,059][com.capgemini.hotel.dao.BookingInformationDAOImpl][main] INFO  com.capgemini.hotel.dao.BookingInformationDAOImpl  - 
+
+com.capgemini.hotel.bean.BookingInformation@5b480cf9
+[2020-05-03 00:26:00,939][com.capgemini.hotel.dao.AdminInformationDAOImpl][main] INFO  com.capgemini.hotel.dao.AdminInformationDAOImpl  - 
+
+ 1. Taj Hotel 
+ 
+[2020-05-03 00:26:22,875][com.capgemini.hotel.dao.AdminInformationDAOImpl][main] ERROR com.capgemini.hotel.dao.AdminInformationDAOImpl  - 
+Please enter valid choice (Choice should be 1 )
+[2020-05-03 00:26:29,028][com.capgemini.hotel.dao.BookingInformationDAOImpl][main] INFO  com.capgemini.hotel.dao.BookingInformationDAOImpl  - 
+
+com.capgemini.hotel.bean.BookingInformation@5b480cf9
+[2020-05-03 00:26:33,761][com.capgemini.hotel.dao.LoginDetailDAOImpl][main] INFO  com.capgemini.hotel.dao.LoginDetailDAOImpl  - 
+
+ 1. View hotel list 
+ 2. View specific hotel bookings 
+ 3. View specific hotel patron list 
+ 4. View specific date bookings 
+ 5. Operate hotel details 
+ 6. Operate hotel room details 
+ 7. Logout
+
+[2020-05-03 00:27:10,247][com.capgemini.hotel.dao.AdminInformationDAOImpl][main] INFO  com.capgemini.hotel.dao.AdminInformationDAOImpl  - 
+
+ Choose which hotel booking details you want 
+
+[2020-05-03 00:27:10,247][com.capgemini.hotel.dao.AdminInformationDAOImpl][main] INFO  com.capgemini.hotel.dao.AdminInformationDAOImpl  - 
+
+ 1. Raj Hansh 
+ 
+[2020-05-03 00:34:32,027][com.capgemini.hotel.controller.HotelController][main] INFO  com.capgemini.hotel.controller.HotelController  - 
+
+ Select any one option to proceed
+
+[2020-05-03 00:34:32,027][com.capgemini.hotel.controller.HotelController][main] INFO  com.capgemini.hotel.controller.HotelController  - 1.Admin
+[2020-05-03 00:34:32,027][com.capgemini.hotel.controller.HotelController][main] INFO  com.capgemini.hotel.controller.HotelController  - 2.Employee
+[2020-05-03 00:34:32,027][com.capgemini.hotel.controller.HotelController][main] INFO  com.capgemini.hotel.controller.HotelController  - 3.Customer
+[2020-05-03 00:34:32,027][com.capgemini.hotel.controller.HotelController][main] INFO  com.capgemini.hotel.controller.HotelController  - 4.Exit
+[2020-05-03 00:34:36,157][com.capgemini.hotel.dao.LoginDetailDAOImpl][main] INFO  com.capgemini.hotel.dao.LoginDetailDAOImpl  - 
+ Enter  username : 
+[2020-05-03 00:34:38,723][com.capgemini.hotel.dao.LoginDetailDAOImpl][main] INFO  com.capgemini.hotel.dao.LoginDetailDAOImpl  - 
+ Enter password : 
+[2020-05-03 00:34:41,519][com.capgemini.hotel.dao.LoginDetailDAOImpl][main] INFO  com.capgemini.hotel.dao.LoginDetailDAOImpl  - 
+ Login fail
+[2020-05-03 00:34:41,519][com.capgemini.hotel.controller.HotelController][main] INFO  com.capgemini.hotel.controller.HotelController  - 
+
+ Select any one option to proceed
+
+[2020-05-03 00:34:41,519][com.capgemini.hotel.controller.HotelController][main] INFO  com.capgemini.hotel.controller.HotelController  - 1.Admin
+[2020-05-03 00:34:41,526][com.capgemini.hotel.controller.HotelController][main] INFO  com.capgemini.hotel.controller.HotelController  - 2.Employee
+[2020-05-03 00:34:41,526][com.capgemini.hotel.controller.HotelController][main] INFO  com.capgemini.hotel.controller.HotelController  - 3.Customer
+[2020-05-03 00:34:41,526][com.capgemini.hotel.controller.HotelController][main] INFO  com.capgemini.hotel.controller.HotelController  - 4.Exit
+[2020-05-03 00:34:59,648][com.capgemini.hotel.dao.LoginDetailDAOImpl][main] INFO  com.capgemini.hotel.dao.LoginDetailDAOImpl  - 
+ Enter  username : 
+[2020-05-03 00:35:04,164][com.capgemini.hotel.dao.LoginDetailDAOImpl][main] INFO  com.capgemini.hotel.dao.LoginDetailDAOImpl  - 
+ Enter password : 
+[2020-05-03 00:35:08,027][com.capgemini.hotel.dao.LoginDetailDAOImpl][main] INFO  com.capgemini.hotel.dao.LoginDetailDAOImpl  - 
+
+ Login done
+
+[2020-05-03 00:35:08,027][com.capgemini.hotel.dao.LoginDetailDAOImpl][main] INFO  com.capgemini.hotel.dao.LoginDetailDAOImpl  - 
+
+ 1. View hotel list 
+ 2. View specific hotel bookings 
+ 3. View specific hotel patron list 
+ 4. View specific date bookings 
+ 5. Operate hotel details 
+ 6. Operate hotel room details 
+ 7. Logout
+
+[2020-05-03 00:35:42,382][com.capgemini.hotel.dao.AdminInformationDAOImpl][main] INFO  com.capgemini.hotel.dao.AdminInformationDAOImpl  - 
+
+ Choose which hotel booking details you want 
+
+[2020-05-03 00:35:42,382][com.capgemini.hotel.dao.AdminInformationDAOImpl][main] INFO  com.capgemini.hotel.dao.AdminInformationDAOImpl  - 
+
+ 1. Raj Hansh 
+ 
+[2020-05-03 00:35:48,191][com.capgemini.hotel.dao.AdminInformationDAOImpl][main] INFO  com.capgemini.hotel.dao.AdminInformationDAOImpl  - 
+
+ You selected hotel Raj Hansh
+
+[2020-05-03 00:35:48,191][com.capgemini.hotel.dao.AdminInformationDAOImpl][main] INFO  com.capgemini.hotel.dao.AdminInformationDAOImpl  - 
+
+ Booking hotel Raj Hansh
+
+[2020-05-03 00:35:48,197][com.capgemini.hotel.dao.BookingInformationDAOImpl][main] INFO  com.capgemini.hotel.dao.BookingInformationDAOImpl  - 
+
+com.capgemini.hotel.bean.BookingInformation@5b480cf9
+[2020-05-03 00:35:50,881][com.capgemini.hotel.dao.AdminInformationDAOImpl][main] INFO  com.capgemini.hotel.dao.AdminInformationDAOImpl  - 
+
+ Choose which hotel booking details you want 
+
+[2020-05-03 00:35:50,881][com.capgemini.hotel.dao.AdminInformationDAOImpl][main] INFO  com.capgemini.hotel.dao.AdminInformationDAOImpl  - 
+
+ 1. Raj Hansh 
+ 
+[2020-05-03 00:36:00,731][com.capgemini.hotel.dao.AdminInformationDAOImpl][main] INFO  com.capgemini.hotel.dao.AdminInformationDAOImpl  - 
+
+ You selected hotel Raj Hansh
+
+[2020-05-03 00:36:00,731][com.capgemini.hotel.dao.AdminInformationDAOImpl][main] INFO  com.capgemini.hotel.dao.AdminInformationDAOImpl  - 
+
+ Booking hotel Raj Hansh
+
+[2020-05-03 00:36:00,734][com.capgemini.hotel.dao.BookingInformationDAOImpl][main] INFO  com.capgemini.hotel.dao.BookingInformationDAOImpl  - 
+
+com.capgemini.hotel.bean.BookingInformation@5b480cf9
+[2020-05-03 00:36:06,658][com.capgemini.hotel.dao.AdminInformationDAOImpl][main] INFO  com.capgemini.hotel.dao.AdminInformationDAOImpl  - 
+
+ Choose which hotel booking details you want 
+
+[2020-05-03 00:36:06,658][com.capgemini.hotel.dao.AdminInformationDAOImpl][main] INFO  com.capgemini.hotel.dao.AdminInformationDAOImpl  - 
+
+ 1. Raj Hansh 
+ 
+[2020-05-03 00:36:11,566][com.capgemini.hotel.dao.AdminInformationDAOImpl][main] INFO  com.capgemini.hotel.dao.AdminInformationDAOImpl  - 
+
+ You selected hotel Raj Hansh
+
+[2020-05-03 00:36:11,566][com.capgemini.hotel.dao.AdminInformationDAOImpl][main] INFO  com.capgemini.hotel.dao.AdminInformationDAOImpl  - 
+
+ Booking hotel Raj Hansh
+
+[2020-05-03 00:36:11,568][com.capgemini.hotel.dao.BookingInformationDAOImpl][main] INFO  com.capgemini.hotel.dao.BookingInformationDAOImpl  - 
+
+com.capgemini.hotel.bean.BookingInformation@5b480cf9
+[2020-05-03 00:36:14,194][com.capgemini.hotel.dao.AdminInformationDAOImpl][main] INFO  com.capgemini.hotel.dao.AdminInformationDAOImpl  - 
+
+ Choose which hotel booking details you want 
+
+[2020-05-03 00:36:14,194][com.capgemini.hotel.dao.AdminInformationDAOImpl][main] INFO  com.capgemini.hotel.dao.AdminInformationDAOImpl  - 
+
+ 1. Raj Hansh 
+ 
+[2020-05-03 00:36:16,542][com.capgemini.hotel.dao.AdminInformationDAOImpl][main] INFO  com.capgemini.hotel.dao.AdminInformationDAOImpl  - 
+
+ You selected hotel Raj Hansh
+
+[2020-05-03 00:36:16,542][com.capgemini.hotel.dao.AdminInformationDAOImpl][main] INFO  com.capgemini.hotel.dao.AdminInformationDAOImpl  - 
+
+ Booking hotel Raj Hansh
+
+[2020-05-03 00:36:16,548][com.capgemini.hotel.dao.BookingInformationDAOImpl][main] INFO  com.capgemini.hotel.dao.BookingInformationDAOImpl  - 
+
+com.capgemini.hotel.bean.BookingInformation@5b480cf9
+[2020-05-03 00:38:25,556][com.capgemini.hotel.dao.LoginDetailDAOImpl][main] INFO  com.capgemini.hotel.dao.LoginDetailDAOImpl  - 
+
+ 1. View hotel list 
+ 2. View specific hotel bookings 
+ 3. View specific hotel patron list 
+ 4. View specific date bookings 
+ 5. Operate hotel details 
+ 6. Operate hotel room details 
+ 7. Logout
+
+[2020-05-03 00:38:53,685][com.capgemini.hotel.dao.AdminInformationDAOImpl][main] INFO  com.capgemini.hotel.dao.AdminInformationDAOImpl  - 
+
+ Enter date 
+
+[2020-05-03 21:54:06,740][com.capgemini.hotel.controller.HotelController][main] INFO  com.capgemini.hotel.controller.HotelController  - 
+
+ Select any one option to proceed
+
+[2020-05-03 21:54:06,756][com.capgemini.hotel.controller.HotelController][main] INFO  com.capgemini.hotel.controller.HotelController  - 1.Admin
+[2020-05-03 21:54:06,756][com.capgemini.hotel.controller.HotelController][main] INFO  com.capgemini.hotel.controller.HotelController  - 2.Employee
+[2020-05-03 21:54:06,756][com.capgemini.hotel.controller.HotelController][main] INFO  com.capgemini.hotel.controller.HotelController  - 3.Customer
+[2020-05-03 21:54:06,756][com.capgemini.hotel.controller.HotelController][main] INFO  com.capgemini.hotel.controller.HotelController  - 4.Exit
+
+
+ Select any one option to proceed
+
+1.Admin
+2.Employee
+3.Customer
+4.Exit
+
+
+ Select any one option to proceed
+
+1.Admin
+2.Employee
+3.Customer
+4.Exit
+
+
+ Select any one option to proceed
+
+1.Admin
+2.Employee
+3.Customer
+4.Exit
+
+
+ Select any one option to proceed
+
+1.Admin
+2.Employee
+3.Customer
+4.Exit
+
+
+ Select any one option to proceed
+
+1.Admin
+2.Employee
+3.Customer
+4.Exit
+
+
+ Select any one option to proceed
+
+1.Admin
+2.Employee
+3.Customer
+4.Exit
+
+
+ Select any one option to proceed
+
+1.Admin
+2.Employee
+3.Customer
+4.Exit
+
+
+ Select any one option to proceed
+
+1.Admin
+2.Employee
+3.Customer
+4.Exit
+
+
+ Select any one option to proceed
+
+1.Admin
+2.Employee
+3.Customer
+4.Exit
+enter login detail
+ Username--- 
+ Password--- 
+ Login done
+Select any one option to proceed
+1. View List of Hotels 
+2. View Bookings of Specific Hotel
+3. View Guest List of Specific Hotel
+4. View Booking for Specific Date
+5. Operate Hotel Details
+6. Operate Room Details
+7. View List Of Employees
+8. View List of Customers
+9. Logout
+Booking For Specific Hotel
+select hotel to see booking detail
+List Of Hotels*
+ hotelinfo 
+ hotelinfo 
+enter hotel name
+enter valid hotel name (Hotel Name should contain name and hotel)
+you want to continue-----
+Select any one option to proceed
+1. View List of Hotels 
+2. View Bookings of Specific Hotel
+3. View Guest List of Specific Hotel
+4. View Booking for Specific Date
+5. Operate Hotel Details
+6. Operate Room Details
+7. View List Of Employees
+8. View List of Customers
+9. Logout
+enter valid choice (Choice should be 1 to 9)
+Feel good to fill application
+Select any one option to proceed
+1.Admin
+2.Employee
+3.Customer
+4.Exit
+enter login detail
+ Username--- 
+ Password--- 
+ Login done
+Select any one option to proceed
+1. View List of Hotels 
+2. View Bookings of Specific Hotel
+3. View Guest List of Specific Hotel
+4. View Booking for Specific Date
+5. Operate Hotel Details
+6. Operate Room Details
+7. View List Of Employees
+8. View List of Customers
+9. Logout
+Hotels List
+ hotelinfo 
+ hotelinfo 
+Select any one option to proceed
+1. View List of Hotels 
+2. View Bookings of Specific Hotel
+3. View Guest List of Specific Hotel
+4. View Booking for Specific Date
+5. Operate Hotel Details
+6. Operate Room Details
+7. View List Of Employees
+8. View List of Customers
+9. Logout
+Feel good to fill application
+Select any one option to proceed
+1.Admin
+2.Employee
+3.Customer
+4.Exit
+enter login detail
+ Username--- 
+ Password--- 
+ Login done
+Select any one option to proceed
+1. View List of Hotels 
+2. View Bookings of Specific Hotel
+3. View Guest List of Specific Hotel
+4. View Booking for Specific Date
+5. Operate Hotel Details
+6. Operate Room Details
+7. View List Of Employees
+8. View List of Customers
+9. Logout
+Hotels List
+ HotelNo. = 1
+ Hotel Name = Raj Hansh Hotel
+ Hotel Address = Bhopal MadhyaPradesh
+ Total number of rooms = 50
+ Contact Number = 9039285136
+
+ HotelNo. = 2
+ Hotel Name = Black Horse
+ Hotel Address = Indore MadhyaPradesh
+ Total number of rooms = 10
+ Contact Number = 9039285137
+
+Select any one option to proceed
+1. View List of Hotels 
+2. View Bookings of Specific Hotel
+3. View Guest List of Specific Hotel
+4. View Booking for Specific Date
+5. Operate Hotel Details
+6. Operate Room Details
+7. View List Of Employees
+8. View List of Customers
+9. Logout
+Specific Hotel Booking
+select hotel to see booking detail
+Hotels List
+ HotelNo. = 1
+ Hotel Name = Raj Hansh Hotel
+ Hotel Address = Bhopal MadhyaPradesh
+ Total number of rooms = 50
+ Contact Number = 9039285136
+
+ HotelNo. = 2
+ Hotel Name = Black Horse
+ Hotel Address = Indore MadhyaPradesh
+ Total number of rooms = 10
+ Contact Number = 9039285137
+
+enter hotel name
+you want to continue-----
+Feel good to fill application
+Select any one option to proceed
+1.Admin
+2.Employee
+3.Customer
+4.Exit
+enter login detail
+ Username--- 
+ Password--- 
+ Login done
+Select any one option to proceed
+1. View List of Hotels 
+2. View Bookings of Specific Hotel
+3. View Guest List of Specific Hotel
+4. View Booking for Specific Date
+5. Operate Hotel Details
+6. Operate Room Details
+7. View List Of Employees
+8. View List of Customers
+9. Logout
+Specific Hotel Booking
+select hotel to see booking detail
+Hotels List
+ HotelNo. = 1
+ Hotel Name = Raj Hansh Hotel
+ Hotel Address = Bhopal MadhyaPradesh
+ Total number of rooms = 50
+ Contact Number = 9039285136
+
+ HotelNo. = 2
+ Hotel Name = Black Horse
+ Hotel Address = Indore MadhyaPradesh
+ Total number of rooms = 10
+ Contact Number = 9039285137
+
+enter hotel name
+you want to continue-----
+Feel good to fill application
+Select any one option to proceed
+1.Admin
+2.Employee
+3.Customer
+4.Exit
+enter login detail
+ Username--- 
+ Password--- 
+ Login done
+Select any one option to proceed
+1. View List of Hotels 
+2. View Bookings of Specific Hotel
+3. View Guest List of Specific Hotel
+4. View Booking for Specific Date
+5. Operate Hotel Details
+6. Operate Room Details
+7. View List Of Employees
+8. View List of Customers
+9. Logout
+Specific Hotel Booking
+select hotel to see booking detail
+Hotels List
+ HotelNo. = 1
+ Hotel Name = Raj Hansh Hotel
+ Hotel Address = Bhopal MadhyaPradesh
+ Total number of rooms = 50
+ Contact Number = 9039285136
+
+ HotelNo. = 2
+ Hotel Name = Black Horse
+ Hotel Address = Indore MadhyaPradesh
+ Total number of rooms = 10
+ Contact Number = 9039285137
+
+enter hotel name
+[ Booking Date = 2020-04-23
+ Hotel Name = Black Horse
+ Name = Meghna Yadav
+ Address = Indore, MadhyaPradesh
+ Email = meghna5@gmail.com
+ Contact Number = 8109332046
+ Number of guest = 2
+ Room Type = Single
+ Id proof = Adhar Card
+ Payment Method = Cash 
+]
+you want to continue-----
+Select any one option to proceed
+1. View List of Hotels 
+2. View Bookings of Specific Hotel
+3. View Guest List of Specific Hotel
+4. View Booking for Specific Date
+5. Operate Hotel Details
+6. Operate Room Details
+7. View List Of Employees
+8. View List of Customers
+9. Logout
+Specific Hotel Patron List
+ select hotel to see patron list 
+Hotels List
+ HotelNo. = 1
+ Hotel Name = Raj Hansh Hotel
+ Hotel Address = Bhopal MadhyaPradesh
+ Total number of rooms = 50
+ Contact Number = 9039285136
+
+ HotelNo. = 2
+ Hotel Name = Black Horse
+ Hotel Address = Indore MadhyaPradesh
+ Total number of rooms = 10
+ Contact Number = 9039285137
+
+enter hotel name
+enter valid hotel name (Hotel Name should contain name and hotel)
+[ Booking Date = 2020-04-23
+ Hotel Name = Black Horse
+ Name = Meghna Yadav
+ Address = Indore, MadhyaPradesh
+ Email = meghna5@gmail.com
+ Contact Number = 8109332046
+ Number of guest = 2
+ Room Type = Single
+ Id proof = Adhar Card
+ Payment Method = Cash 
+]
+you want to continue---
+Select any one option to proceed
+1. View List of Hotels 
+2. View Bookings of Specific Hotel
+3. View Guest List of Specific Hotel
+4. View Booking for Specific Date
+5. Operate Hotel Details
+6. Operate Room Details
+7. View List Of Employees
+8. View List of Customers
+9. Logout
+ Specific Date Booking Detail 
+enter date
+ you want to continue---
+enter date
+[ Booking Date = 2020-04-23
+ Hotel Name = Raj Hansh Hotel
+ Name = Ritwik Yadav
+ Address = Bhopal, MadhyaPradesh
+ Email = ritwik5@gmail.com
+ Contact Number = 8109332048
+ Number of guest = 1
+ Room Type = Single
+ Id proof = Adhar Card
+ Payment Method = Card Payment
+]
+[ Booking Date = 2020-04-23
+ Hotel Name = Black Horse
+ Name = Meghna Yadav
+ Address = Indore, MadhyaPradesh
+ Email = meghna5@gmail.com
+ Contact Number = 8109332046
+ Number of guest = 2
+ Room Type = Single
+ Id proof = Adhar Card
+ Payment Method = Cash 
+]
+ you want to continue---
+Select any one option to proceed
+1. View List of Hotels 
+2. View Bookings of Specific Hotel
+3. View Guest List of Specific Hotel
+4. View Booking for Specific Date
+5. Operate Hotel Details
+6. Operate Room Details
+7. View List Of Employees
+8. View List of Customers
+9. Logout
+Operate Hotel Details
+Select any one option to proceed
+1. Add Hotel 
+2. Delete Hotel
+3. Update Hotel
+4. Back
+Add Hotel Details
+enter hotelno
+
+enter hotel name
+enter hotel address
+ enter contact number
+enter number rooms in hotel
+hotel details of new hotel is added
+Select any one option to proceed
+1. Add Hotel 
+2. Delete Hotel
+3. Update Hotel
+4. Back
+Delete Hotel Details
+ enter hotel name to delete it's detail
+hotel data deleted
+Select any one option to proceed
+1. Add Hotel 
+2. Delete Hotel
+3. Update Hotel
+4. Back
+Update Hotel Details
+enter name of a hotel you want to update
+
+
+Black Horse
+Feel good to fill application
+Select any one option to proceed
+1.Admin
+2.Employee
+3.Customer
+4.Exit
+Feel good to fill application
+Select any one option to proceed
+1.Admin
+2.Employee
+3.Customer
+4.Exit
+enter login detail
+ Username--- 
+ Password--- 
+ Login done
+Select any one option to proceed
+1. View List of Hotels 
+2. View Bookings of Specific Hotel
+3. View Guest List of Specific Hotel
+4. View Booking for Specific Date
+5. Operate Hotel Details
+6. Operate Room Details
+7. View List Of Employees
+8. View List of Customers
+9. Logout
+Operate Hotel Details
+Select any one option to proceed
+1. Add Hotel 
+2. Delete Hotel
+3. Update Hotel
+4. Back
+Add Hotel Details
+enter hotelno
+
+enter hotel name
+enter hotel address
+ enter contact number
+enter number rooms in hotel
+hotel details of new hotel is added
+Select any one option to proceed
+1. Add Hotel 
+2. Delete Hotel
+3. Update Hotel
+4. Back
+Update Hotel Details
+enter name of a hotel you want to update
+
+
+Taj Hotel
+Hotel Not Found
+Select any one option to proceed
+1. Add Hotel 
+2. Delete Hotel
+3. Update Hotel
+4. Back
+Select any one option to proceed
+1. View List of Hotels 
+2. View Bookings of Specific Hotel
+3. View Guest List of Specific Hotel
+4. View Booking for Specific Date
+5. Operate Hotel Details
+6. Operate Room Details
+7. View List Of Employees
+8. View List of Customers
+9. Logout
+Operate Room Details
+Select any one option to proceed
+Select any one option to proceed
+1. Add Room 
+2. Delete Room
+3. Update Room
+4. All Room Details
+5. Back
+Add Room Details
+enter room number
+enter room type
+ details of new roomyou want is added 
+Select any one option to proceed
+Select any one option to proceed
+1. Add Room 
+2. Delete Room
+3. Update Room
+4. All Room Details
+5. Back
+Update Room Details
+enter room number to update 
+
+
+
+101
+Room Not Found
+Select any one option to proceed
+Select any one option to proceed
+1. Add Room 
+2. Delete Room
+3. Update Room
+4. All Room Details
+5. Back
+Delete Room Details
+enter room number to delete it's detail
+data deleted 
+Select any one option to proceed
+Select any one option to proceed
+1. Add Room 
+2. Delete Room
+3. Update Room
+4. All Room Details
+5. Back
+Get All Room Details
+
+
+ Room Number = 306
+ Room Type = Single
+
+
+
+
+ Room Number = 309
+ Room Type = Double
+
+
+
+
+ Room Number = 307
+ Room Type = Single
+
+
+
+
+ Room Number = 308
+ Room Type = Double
+
+
+Select any one option to proceed
+Select any one option to proceed
+1. Add Room 
+2. Delete Room
+3. Update Room
+4. All Room Details
+5. Back
+Select any one option to proceed
+1. View List of Hotels 
+2. View Bookings of Specific Hotel
+3. View Guest List of Specific Hotel
+4. View Booking for Specific Date
+5. Operate Hotel Details
+6. Operate Room Details
+7. View List Of Employees
+8. View List of Customers
+9. Logout
+ All Employees List
+ Employee Name = Amit Yadav
+ Employee Email = amit@gmail.com
+ Employee ContactNumber = 8109332049
+ Employee username = amit
+ Working Hotel Name = 
+ Salary = 20000.0
+
+Select any one option to proceed
+1. View List of Hotels 
+2. View Bookings of Specific Hotel
+3. View Guest List of Specific Hotel
+4. View Booking for Specific Date
+5. Operate Hotel Details
+6. Operate Room Details
+7. View List Of Employees
+8. View List of Customers
+9. Logout
+ Customers list
+ Customer Name = RitWik Yadav
+ Customer Emailid = ritwik5@gmail.com
+ Customer Contact Number = 8109332048
+ Customer username = ritwikyadav
+
+Select any one option to proceed
+1. View List of Hotels 
+2. View Bookings of Specific Hotel
+3. View Guest List of Specific Hotel
+4. View Booking for Specific Date
+5. Operate Hotel Details
+6. Operate Room Details
+7. View List Of Employees
+8. View List of Customers
+9. Logout
+Logout done
+Feel good to fill application
+Select any one option to proceed
+1.Admin
+2.Employee
+3.Customer
+4.Exit
+Select any one option to proceed
+1. Employee Login
+2. Employee Register
+3.  Logout 
+enter login details
+Username--- 
+Password--- 
+ Login done
+Select any one option to proceed
+1. Booking for hotel
+2. View Customer List
+3. Update Employee Information 
+4. Back
+Booking Hotel
+select hotel to book 
+Hotels List
+ HotelNo. = 1
+ Hotel Name = Raj Hansh Hotel
+ Hotel Address = Bhopal MadhyaPradesh
+ Total number of rooms = 50
+ Contact Number = 9039285136
+
+ HotelNo. = 2
+ Hotel Name = Black Horse
+ Hotel Address = Indore MadhyaPradesh
+ Total number of rooms = 10
+ Contact Number = 9039285137
+
+ HotelNo. = 3
+ Hotel Name = Taj Hotel
+ Hotel Address = banag
+ Total number of rooms = 10
+ Contact Number = 7083788695
+
+enter hotel name you want to book
+enter booking date
+enter hotel name
+enter your name
+enter your residence address
+enter email
+enter contact number
+
+enter room type (Single or Double)
+enter Id proof number (Adhar Card or Driving Licence)
+enter payment method (Card Payment or Cash Payment)
+enter number of guest wit you
+
+
+ Booking done
+
+
+Do you want to continue ?
+
+Select any one option to proceed
+1. Booking for hotel
+2. View Customer List
+3. Update Employee Information 
+4. Back
+enter name of a employee to update
+Feel good to fill application
+Select any one option to proceed
+1.Admin
+2.Employee
+3.Customer
+4.Exit
+Select any one option to proceed
+1. Employee Login
+2. Employee Register
+3.  Logout 
+enter login details
+Username--- 
+Password--- 
+ Login done
+Select any one option to proceed
+1. Booking for hotel
+2. View Customer List
+3. Update Employee Information 
+4. Back
+ Customers list
+ Customer Name = RitWik Yadav
+ Customer Emailid = ritwik5@gmail.com
+ Customer Contact Number = 8109332048
+ Customer username = ritwikyadav
+
+Select any one option to proceed
+1. Booking for hotel
+2. View Customer List
+3. Update Employee Information 
+4. Back
+Select any one option to proceed
+1. Employee Login
+2. Employee Register
+3.  Logout 
+Logout done
+Feel good to fill application
+Select any one option to proceed
+1.Admin
+2.Employee
+3.Customer
+4.Exit
+Select any one option to proceed
+1. Customer Login
+2. Customer Register
+3. Logout 
+enter login details
+Username--- 
+Password--- 
+Login Done
+Select any one operation to proceed
+ 1. Booking for hotel
+2. Update Customer Information 
+3. Back 
+Select any one operation to proceed
+ 1. Booking for hotel
+2. Update Customer Information 
+3. Back 
+Feel good to fill application
+Select any one option to proceed
+1.Admin
+2.Employee
+3.Customer
+4.Exit
+Select any one option to proceed
+1. Customer Login
+2. Customer Register
+3. Logout 
+enter login details
+Username--- 
+Password--- 
+Login Done
+Select any one operation to proceed
+ 1. Booking for hotel
+2. Update Customer Information 
+3. Back 
+enter username which you need to update
+
+
+ritwik
+Select any one option to proceed
+1. Customer Login
+2. Customer Register
+3. Logout 
+Feel good to fill application
+Select any one option to proceed
+1.Admin
+2.Employee
+3.Customer
+4.Exit
+Select any one option to proceed
+1. Customer Login
+2. Customer Register
+3. Logout 
+enter login details
+Username--- 
+Password--- 
+Login Done
+Select any one operation to proceed
+ 1. Booking for hotel
+2. Update Customer Information 
+3. Back 
+enter username which you need to update
+
+
+dfdgfdgdf
+Customer Not Found
+Select any one operation to proceed
+ 1. Booking for hotel
+2. Update Customer Information 
+3. Back 
+Select any one option to proceed
+1. Customer Login
+2. Customer Register
+3. Logout 
+Logout done
+Feel good to fill application
+Select any one option to proceed
+1.Admin
+2.Employee
+3.Customer
+4.Exit
+ Specific Date Booking Detail
+[ Booking Date = 2020-04-25
+ Hotel Name = Blach Horse
+ Name = Amit Yadav
+ Address = Indore, MadhyaPradesh
+ Email = amit5@gmail.com
+ Contact Number = 8109332049
+ Number of guest = 2
+ Room Type = Single
+ Id proof = Adhar Card
+ Payment Method = Cash
+]
+[ Booking Date = 2020-04-25
+ Hotel Name = Raj Hansh Hotel
+ Name = Pankaj Yadav
+ Address = Bhopal, MadhyaPradesh
+ Email = pankaj5@gmail.com
+ Contact Number = 8109332047
+ Number of guest = 3
+ Room Type = Double
+ Id proof = Adhar Card
+ Payment Method = Card Payment
+]
+Specific Hotel Booking Detail
+Add Booking
+enter booking date
+enter hotel name
+enter your name
+enter your residence address
+enter email
+enter valid  email (Email must contain @ . )
+enter valid  email (Email must contain @ . )
+enter contact number
+
+
+Please enter valid contact number (Contact Number must 10 digits) 
+enter room type (Single or Double)
+enter Id proof number (Adhar Card or Driving Licence)
+enter payment method (Card Payment or Cash Payment)
+enter number of guest wit you
+
+
+ Booking done
+See Booking Details
+ Booking Date = 2020-04-23
+ Hotel Name = Raj Hansh Hotel
+ Name = Ritwik Yadav
+ Address = Bhopal, MadhyaPradesh
+ Email = ritwik5@gmail.com
+ Contact Number = 8109332048
+ Number of guest = 1
+ Room Type = Single
+ Id proof = Adhar Card
+ Payment Method = Card Payment
+
+ Booking Date = 2020-04-25
+ Hotel Name = Blach Horse
+ Name = Amit Yadav
+ Address = Indore, MadhyaPradesh
+ Email = amit5@gmail.com
+ Contact Number = 8109332049
+ Number of guest = 2
+ Room Type = Single
+ Id proof = Adhar Card
+ Payment Method = Cash
+
+ Booking Date = 2020-04-25
+ Hotel Name = Raj Hansh Hotel
+ Name = Pankaj Yadav
+ Address = Bhopal, MadhyaPradesh
+ Email = pankaj5@gmail.com
+ Contact Number = 8109332047
+ Number of guest = 3
+ Room Type = Double
+ Id proof = Adhar Card
+ Payment Method = Card Payment
+
+ Booking Date = 2020-04-23
+ Hotel Name = Black Horse
+ Name = Meghna Yadav
+ Address = Indore, MadhyaPradesh
+ Email = meghna5@gmail.com
+ Contact Number = 8109332046
+ Number of guest = 2
+ Room Type = Single
+ Id proof = Adhar Card
+ Payment Method = Cash 
+
+ Booking Date = 2020-05-05
+ Hotel Name = null
+ Name = ritwik
+ Address = ghgyu
+ Email = aswe@.
+ Contact Number = 7890654321
+ Number of guest = 7
+ Room Type = Single
+ Id proof = Adhar Card
+ Payment Method = Cash
+
+ Specific Date Booking Detail
+[ Booking Date = 2020-04-25
+ Hotel Name = Blach Horse
+ Name = Amit Yadav
+ Address = Indore, MadhyaPradesh
+ Email = amit5@gmail.com
+ Contact Number = 8109332049
+ Number of guest = 2
+ Room Type = Single
+ Id proof = Adhar Card
+ Payment Method = Cash
+]
+[ Booking Date = 2020-04-25
+ Hotel Name = Raj Hansh Hotel
+ Name = Pankaj Yadav
+ Address = Bhopal, MadhyaPradesh
+ Email = pankaj5@gmail.com
+ Contact Number = 8109332047
+ Number of guest = 3
+ Room Type = Double
+ Id proof = Adhar Card
+ Payment Method = Card Payment
+]
+Specific Hotel Booking Detail
+Add Booking
+enter booking date
+ Add Customer
+
+
+ Please enter your name
+
